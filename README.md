@@ -1,5 +1,6 @@
 <h2> Hi, I'm Alexandra Vélez! <img src="https://github.com/AlexandraVelezG11/AlexandraVelezG11-/assets/155500061/7433c089-466f-4a04-b861-dc02499f5351" width="50">
-</h2><img align='right' src="https://github.com/AlexandraVelezG11/AlexandraVelezG11-/assets/155500061/95cd951c-38ea-44b1-997b-55220943dd4a">
+  </h2>
 
-<h2> <p><em>Systems Engineer at <a href="https://sitio.usanjose.edu.co/">University U Sanjose 👋 </a></br>Development trainee <a href="https://www.hakisoft.com/">HakiSoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<body> <p><em>Systems Engineer at <a href="https://sitio.usanjose.edu.co/">University U Sanjose 👋 </a></br>Development trainee <a href="https://www.hakisoft.com/">HakiSoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> <img align='right' src="https://github.com/AlexandraVelezG11/AlexandraVelezG11-/assets/155500061/95cd951c-38ea-44b1-997b-55220943dd4a" width="2200" High="200">
+</body>
