@@ -2,5 +2,5 @@
   </h2>
 
 <body> <p><em>Systems Engineer at <a href="https://sitio.usanjose.edu.co/">University U Sanjose 👋 </a></br>Development trainee <a href="https://www.hakisoft.com/">HakiSoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> <img align='right' src="https://github.com/AlexandraVelezG11/AlexandraVelezG11-/assets/155500061/95cd951c-38ea-44b1-997b-55220943dd4a" width="2200" High="200">
+</em></p> <img align='right' src="https://github.com/AlexandraVelezG11/AlexandraVelezG11/assets/155500061/ae33a386-6344-4c52-815f-df01b61f5367" width="2200" High="200">
 </body>
